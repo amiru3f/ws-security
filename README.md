@@ -1,4 +1,4 @@
 # ws-security
 * Self hosted wcf with ws-security signed messages
 * Logs of builtin wcf pipline is integrated with nlog
-* Logs can be integrated with elk stack.
+* Logs can be pushed to elk stack.
